@@ -1,6 +1,6 @@
-# Frontend Mentor - REST Countries API with color theme switcher solution
+# Project Title - REST Countries API with color theme switcher solution
 
-This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to integrate with the REST Countries V2 API to pull country data and display it like in an attached design file. You are required to use the React + TypeScript front-end framework. 
 
 ## Table of contents
 
@@ -17,7 +17,7 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Deydii/rest-countries-api-with-color-theme-switcher-master.git
+$ git clone https://github.com/CharlesBoaduAmalitech/rest-countries-api-yarn.git
 
 # Installing all the dependencies
 $ yarn
@@ -31,13 +31,13 @@ $ yarn start
 ### The challenge
 
 Users should be able to:
-
+- View the optimal layout for the site depending on their device's screen siz
 - See all countries from the API on the homepage
 - Search for a country using an `input` field
 - Filter countries by region
 - Click on a country to see more detailed information on a separate page
 - Click through to the border countries on the detail page
-- Toggle the color scheme between light and dark mode *(optional)*
+- Toggle the color scheme between light and dark mode 
 
 ### Screenshot
 
@@ -45,7 +45,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL : https://deydi-rest-countries.netlify.app/
+- Live Site URL : https://cboaduamalitech-restcountriesapi.netlify.app/
 
 ## My process
 
