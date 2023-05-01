@@ -31,7 +31,7 @@ $ yarn start
 ### The challenge
 
 Users should be able to:
-- View the optimal layout for the site depending on their device's screen siz
+- View the optimal layout for the site depending on their device's screen size
 - See all countries from the API on the homepage
 - Search for a country using an `input` field
 - Filter countries by region
